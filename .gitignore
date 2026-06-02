@@ -1,0 +1,10 @@
+/bin/
+*.exe
+*.test
+*.out
+.env
+node_modules/
+web/dist/
+.DS_Store
+.idea/
+.vscode/
